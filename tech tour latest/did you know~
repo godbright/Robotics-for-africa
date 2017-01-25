@@ -1,0 +1,24 @@
+ 
+ <html>
+<head>
+<title>tech tour</title>
+</head>
+
+<style>
+
+p{background-color:green;
+color:white;
+border:10px solid green;
+width:400px;
+height:100px;
+text-align:center;
+
+font-size:40px;
+margin-left:950px;}
+
+</style>
+<body>
+<p>
+Did you know<br>
+The drones are the small machines which
+ could be used to take a picture on air.</p>

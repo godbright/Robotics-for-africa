@@ -1,0 +1,155 @@
+ 
+ <html>
+<head>
+<title>tech tour</title>
+</head>
+<style>
+
+#header{width:auto;
+height:auto;
+}
+
+#container{background-color:green;
+color:white;
+
+width:400px;
+height:auto;
+text-align:center;
+
+font-size:40px;
+float:right;
+}
+#main{
+
+text-align:left;
+width:890px;
+height:auto;
+clear:all;
+}
+*{margin:0;
+padding:0;
+}
+nav {background-color:black;
+    height:50px;}
+nav ul{}
+ li{list-style-type:none;
+         width:200px;
+		 float:left;
+		 font-family:gabriola;
+		 font-weight:bold;
+		 font-size:20px;
+	}
+ li a{text-decoration:none;
+  color:white;
+  line-height:50px;
+  display:block;}
+  
+  li a:hover{background-color:grey;
+  color:white;}
+  li a:active{background-color:red;}
+ #footer{background-color:black;
+  clear:both;
+  width:auto;
+  height:50px;}
+ #header .selected{text-align:right;
+ 
+}
+
+.selected{display:inline;
+float:right;
+padding-bottom:100px;}
+
+p{
+
+  
+
+</style>
+
+
+<div id="header">
+
+
+<img src="lg.png">
+<div class="selected">
+<img src="upl.jpg"width="100px"align="left">
+<img src="f.jpg"width="30px">
+<img src="twitter.png"width="30px">
+<img src="tb.jpg"width="30px">
+
+</div>
+
+<nav>
+
+<ul>
+      <li><a href="newas.html">Home</a></li>
+      <li><a href="projects.html">projects</a></li>
+      <li><a href="cont">Explore cariers</a></li>
+	  <li><a href="cont">contact us</a></li>
+      <li><a href="boti">about us</a></li>
+      <li><a href="boti">Events</a></li>
+	  </ul>
+	  
+	  
+      
+     
+    </ul>
+  </li>
+  </nav>
+<div id="container">
+
+
+<p>did you know<br>
+drones are aerial machines which are always used to take a 
+picture on air
+</p>
+
+  </div>
+ 
+<div id="content">
+  
+  <div id ="main">
+ 
+ <a href="https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle">
+<img src="drones.png"width="300px">
+</a>
+<h3>pictures</h3>
+  <img src="jh.jpg">
+  <img src="te.jpg">
+  >
+
+ <h3>videos</h3>
+<h3>how to make a drone</h3>
+<video src="How To_ Make A Drone (Quadcopter) - YouTube (360p).mp4"width="500px"height="400px"autoplay>
+<br>
+<h3>how to make a drone</h3>
+<video src="Vortex Setup and Maiden Flight - YouTube (360p).mp4"width="700px"height="700px">
+<br>
+<h3>how to make a drone</h3>
+<video src="Micro Quad Build Instructions - YouTube (360p).mp4"width="700px"height="700px">
+
+  <a href="https://en.wikipedia.org/wiki/Water_filter">
+  <img src="wat1.png">
+  </a>
+   <img src="pu1.jpg">
+   <img src="pu2.jpg">
+   <img src="pu3.jpg">
+   <img src="pu4.jpg">
+   
+ 
+
+  <img src="p9.png">  <a href="https://en.wikipedia.org/wiki/Plane "></a>
+     <img src="rc.jpg">
+     <img src="45.jpg">
+     <img src="2.jpg">
+   <img src="wq.jpg">
+   <img src="yt.jpg">
+  
+ 
+  
+
+ 
+
+  </div>
+  <div id="footer">
+  copyright@godbright:2016
+  </div>
